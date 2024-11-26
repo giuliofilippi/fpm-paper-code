@@ -1,2 +1,2 @@
 # fpm-paper-code
-Code for paper: "Laterally biased memory networks explain the use of higher-order features in visually navigating insects"
+Code for paper: "Lateralised memory networks explain the use of higher-order visual features in navigating insects"
